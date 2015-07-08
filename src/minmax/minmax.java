@@ -17,7 +17,6 @@ public class minmax {
 			val = s.next();
 			ls.add(val);
 		}
-		
 		s.close();
 		ArrayList<Sensor> objs;
 		objs = new ArrayList<>();
